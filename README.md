@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bejeyon
 - 👀 I’m interested in C, JAVA, SQL, Python 
-- 🌱 I’m currently learning C, JAVA(&JDBC), SQL, Python
+- 🌱 I’m currently learning C, JAVA, SQL, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : Email me! bejeyon@gmail.com 
 
